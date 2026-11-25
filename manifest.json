@@ -1,0 +1,24 @@
+{
+  "name": "Z - Meute Sauvage",
+  "short_name": "Z",
+  "description": "Chat & Rencontres 100% animaux 3D - Mur Z, LA ZONE, Ar\u00e8ne Plato, Prison de Glace, Z-CORE IA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E0D08",
+  "theme_color": "#0047BB",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
