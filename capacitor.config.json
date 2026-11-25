@@ -1,0 +1,12 @@
+{
+  "appId": "com.ziapp.meute",
+  "appName": "ZMEUTE",
+  "webDir": ".",
+  "server": {
+    "url": "https://ziapp-chi.vercel.app",
+    "cleartext": true
+  },
+  "ios": {
+    "contentInset": "always"
+  }
+}
