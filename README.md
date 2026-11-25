@@ -12,6 +12,7 @@ Features:
 - Z-CORE Labo IA: API Externe / Prompt Studio / Fichier Local, niveau min pour tchater, déblocage perles, intégrée dans Meute comme 13e profil
 - Live vérifié streamer inscription 5 étapes
 - Monnaie ZIA=perles 1 ZIA=100 perles=0.01€
+- Chat messages , photo video story
 
 FICHIERS:
 - index.html = APP COMPLÈTE (React + Tailwind + Framer Motion + base de données intégrée)
